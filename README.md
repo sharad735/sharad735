@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sharad735.
-- 👀 I’m interested in Programming, Web Designing.
-- 🌱 I’m currently learning some front end technologies.
-- 💞️ I’m looking to collaborate on new python backend projects.
-- 📫 How to reach me sharadbhise735@gmail.com.
+- 👀 I’m interested in Programming, Web Designing, app development.
+- 🌱 I’m currently learning flutter.
+- 📫 reach me sharadbhise735@gmail.com.
 
 <!---
 sharad735/sharad735 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
